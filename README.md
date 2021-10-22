@@ -1,1 +1,11 @@
-# Solucion-semana-4y5-backend
+# Solucion-Sprint-4
+
+## Project setup
+```
+npm install
+```
+
+### Run the hostserver
+```
+npm run dev
+```
